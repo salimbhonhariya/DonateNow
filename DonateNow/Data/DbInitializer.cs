@@ -1,4 +1,4 @@
-﻿using DonateNow.Model;
+using DonateNow.Model;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -27,11 +27,11 @@ namespace DonateNow.Data
                 { 
                     Name = "salim",
                     ConsentToPay = true,
-                    PhysicalAddress = new PhysicalAddress { StreetNumber = 3541, Address1 = "Empire State Drive", City = "Canton", State = "MI", ZipCode = 48188 },
+                    PhysicalAddress = new PhysicalAddress { StreetNumber = 1111, Address1 = "1111", City = "qweqe", State = "MI", ZipCode = 0000 },
                     donationEvent = new List<DonationEvent> { new DonationEvent { DonationAmount = 20, DonationDate = DateTime.Now } },
                     paypal = new Paypal
                     {
-                        paypalCredentials = new PaypalCredentials { PaypalEmail = "SALIMBHONHARIYA@GMAIL.COM", PaypalPassword = "123456" },
+                        paypalCredentials = new PaypalCredentials { PaypalEmail = "abc@cde.com", PaypalPassword = "123456" },
                     },
                     creditCards = new List<CreditCard>  { new CreditCard  { CardVerificationCode = 1234,CreditCardExpirationDate = DateTime.Now,CreditCardNumber = 1234567890, DonorId = 1, DonationEventId = 1 } }
                 });
