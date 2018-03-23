@@ -1,0 +1,12 @@
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\obj\Debug\netcoreapp2.0\DonateNow.csprojResolveAssemblyReference.cache
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\obj\Debug\netcoreapp2.0\DonateNow.csproj.CoreCompileInputs.cache
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\obj\Debug\netcoreapp2.0\DonateNow.AssemblyInfoInputs.cache
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\obj\Debug\netcoreapp2.0\DonateNow.AssemblyInfo.cs
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\bin\Debug\netcoreapp2.0\DonateNow.deps.json
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\bin\Debug\netcoreapp2.0\DonateNow.runtimeconfig.json
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\bin\Debug\netcoreapp2.0\DonateNow.runtimeconfig.dev.json
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\bin\Debug\netcoreapp2.0\DonateNow.dll
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\bin\Debug\netcoreapp2.0\DonateNow.pdb
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\obj\Debug\netcoreapp2.0\DonateNow.dll
+C:\Users\sbhonhariya\source\repos\DonateNow\DonateNow\obj\Debug\netcoreapp2.0\DonateNow.pdb
